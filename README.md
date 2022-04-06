@@ -1,10 +1,10 @@
-## Hello there 👋
+### Hello there 👋
 
 ---
 
-## :man_technologist: About Me :
+### :man_technologist: About Me :
 
-### My name is Umar Kantaev, and I'm a Frontend Developer!
+My name is Umar Kantaev, and I'm a Frontend Developer!
 
 ---
 

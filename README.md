@@ -1,6 +1,10 @@
 ## Hello there 👋
 
-# My name is Umar Kantaev, and I'm a Frontend Developer!
+---
+
+# :man_technologist: About Me :
+
+### My name is Umar Kantaev, and I'm a Frontend Developer!
 
 # :hammer_and_wrench: My Skills:
 <div>

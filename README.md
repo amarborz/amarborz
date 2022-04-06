@@ -8,6 +8,8 @@ My name is Umar Kantaev, and I'm a Frontend Developer!
 
 I'm currently working on some Freelance projects while honing my frontend skills at the same time!
 
+I'm always open for a chat and potentially a collaboration!
+
 
 
 ---

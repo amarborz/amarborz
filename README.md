@@ -6,6 +6,8 @@
 
 ### My name is Umar Kantaev, and I'm a Frontend Developer!
 
+---
+
 ## :hammer_and_wrench: My Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;

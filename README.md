@@ -6,6 +6,10 @@
 
 My name is Umar Kantaev, and I'm a Frontend Developer!
 
+I'm currently working on some Freelance projects while honing my frontend skills at the same time!
+
+
+
 ---
 
 ### :hammer_and_wrench: My Skills:

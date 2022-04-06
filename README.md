@@ -2,11 +2,11 @@
 
 ---
 
-# :man_technologist: About Me :
+## :man_technologist: About Me :
 
 ### My name is Umar Kantaev, and I'm a Frontend Developer!
 
-# :hammer_and_wrench: My Skills:
+## :hammer_and_wrench: My Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;

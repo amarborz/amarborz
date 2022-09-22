@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
-My name is Umar Kantaev, and I'm a Frontend Developer!
+My name is Umar Kantaev, and I'm a Full Stack Developer!
 
 Currently working on some Freelance projects while honing my frontend skills at the same time!
 

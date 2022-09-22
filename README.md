@@ -6,7 +6,7 @@
 
 My name is Umar Kantaev, and I'm a Full Stack Developer!
 
-Currently working on some Freelance projects while honing my frontend skills at the same time!
+Currently working on some Freelance projects while honing my skills at the same time!
 
 Always open for a chat and potentially a collaboration!
 
